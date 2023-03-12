@@ -1,0 +1,5 @@
+
+ERROR: 0:18: 'normal' : redefinition 
+ERROR: 0:24: 'assign' : l-value required "normal" (cannot modify an attribute)
+
+
